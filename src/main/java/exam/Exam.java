@@ -1,6 +1,6 @@
-package pcg;
+package exam;
 
-public class Pokedeck {
+public class Exam {
   public static void main(String args[]) {
   }
 }

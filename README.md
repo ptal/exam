@@ -1,9 +1,6 @@
-# Laboratory Pokedeck
-
-The next generation Pokemon card manager that you will write :-)
+# Exam of PF2
 
 ```
 mvn compile
-mvn exec:java -Dexec.mainClass="pcg.Pokedeck"
-mvn test
+mvn exec:java -Dexec.mainClass="exam.Exam"
 ```
